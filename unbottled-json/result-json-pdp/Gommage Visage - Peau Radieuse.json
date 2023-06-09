@@ -1,0 +1,95 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Grains de cafés ",
+            "subtitle": "Coffea Arabica Seed Powder, Coffea Robusta Seed Powder",
+            "description": "Propriétés exfoliantes & tonifiantes",
+            "icon_code": "coffee"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de jojoba ",
+            "subtitle": "Simmondsia Chinensis Seed Oil",
+            "description": "Propriétés équilibrantes",
+            "icon_code": "amphora"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’amande douce ",
+            "subtitle": "Prunus Amygdalus Dulcis Oil",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "ear_of_rice"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum Fragrance",
+            "subtitle":"",
+            "description": "Parfum 100% naturel (sans huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Absorbants ",
+            "subtitle": "Maltodextrin, Alumine & Magnesium Oxide",
+            "description": "Absorbe l’eau ou l’huile",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactifs Biodégradables ",
+            "subtitle": "Sodium Cocoyl Isethionate, Disodium Lauryl Sulfosuccinate, Decyl Glucoside",
+            "description": "Agents moussants d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Emollient",
+            "subtitle": "Palmitic Acid",
+            "description": "Adoucit et assouplit",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Nettoyants ",
+            "subtitle": "Stearic Acid, Sodium Stearate",
+            "description": "Remplace le savon",
+            "icon_code": "bath"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant ",
+            "subtitle": "Sodium Palmitate",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Amidon de Maïs ",
+            "subtitle": "Zea Mays (Corn) Starch",
+            "description": "Agent de protection de la peau",
+            "icon_code": "corn"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale ",
+            "subtitle": "Glycerin",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Acide Citrique ",
+            "subtitle": "Citric Acid",
+            "description": "Un des principaux actifs du citron utilisé pour réguler le pH",
+            "icon_code": "lemon"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorants",
+            "subtitle": "CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides)",
+            "description": "Autorisés en cosmétique bio (dans le référentiel Cosmos)",
+            "icon_code": "purple_heart"
+        }
+    ]
+}

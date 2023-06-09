@@ -1,0 +1,88 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Jojoba",
+            "subtitle": "Simmondsia Chinensis (Jojoba) Seed Oil",
+            "description": "Propriétés équilibrantes",
+            "icon_code": "amphora"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Cameline",
+            "subtitle": "Camelina Sativa Seed Oil",
+            "description": "Propriétés réparatrices",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Extrait de Curcuma",
+            "subtitle": "Curcuma Longa Root Powder",
+            "description": "Propriétés unifiantes et antioxydantes",
+            "icon_code": "low_brightness"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum 100% naturel",
+            "subtitle": "Fragrance",
+            "description": "Aux notes d'aloe mimosa  (sans huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Absorbants",
+            "subtitle": "Maltodextrine, Oxyde de magnésium et Alumine",
+            "description": "Absorbe l’eau ou l’huile",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif Biodégradable",
+            "subtitle": "Sodium Cocoyl Isethionate",
+            "description": "Agent moussant d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents nettoyants",
+            "subtitle": "Acide stéraique, Acide laurique, Acide myristique",
+            "description": "Remplacent le savon",
+            "icon_code": "bath"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif biodégradable",
+            "subtitle": "Disodium Lauryl Sulfosuccinate",
+            "description": "Agent moussant et lavant d’origine végétale",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Ricin",
+            "subtitle": "Hydrogenated Castor Oil",
+            "description": "Propriétés assouplissantes et adoucissantes",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Alcool Cetylique",
+            "subtitle": "Cetyl Alcohol",
+            "description": "Propriétés assouplissantes et adoucissantes",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Acide citrique",
+            "subtitle": "Citric Adic",
+            "description": "Un des principaux actifs du citron, utilisé pour équilibrer le pH",
+            "icon_code": "lemon"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorants  ",
+            "subtitle": "CI 77491 (Iron Oxides), CI 77492  (Iron Oxides), CI 77499 (Iron Oxides)",
+            "description": "Autorisés en cosmétique bio (dans le référentiel Cosmos)",
+            "icon_code": "orange_heart"
+        }
+    ]
+}

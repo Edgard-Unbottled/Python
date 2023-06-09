@@ -1,0 +1,116 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Charbon Charcoal Powder",
+            "subtitle":"",
+            "description": "Propriétés absorbantes et detoxifiantes",
+            "icon_code": "black_heart"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Zinc PCA ",
+            "subtitle": "Zinc PCA",
+            "description": "Propriétés séborégulatrices",
+            "icon_code": "white_circle"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile Essentielle d’Arbre à Thé ",
+            "subtitle": "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+            "description": "Propriétés purifiantes et assainissantes",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Noisette l",
+            "subtitle": "Corylus Avellana (Hazelnut) Seed Oi",
+            "description": "Propriétés équilibrantes et adoucissantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Absorbants ",
+            "subtitle": "Maltodextrin",
+            "description": "Absorbe l’eau ou l’huile",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactifs Biodégradables ",
+            "subtitle": "Sodium Cocoyl Isethionate, Disodium Lauryl Sulfosuccinate, Decyl Glucoside",
+            "description": "Agents moussants d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Emollient",
+            "subtitle": "Palmitic Acid",
+            "description": "Adoucit et assouplit",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Nettoyants ",
+            "subtitle": "Stearic Acid, Sodium Stearate",
+            "description": "Remplace le savon",
+            "icon_code": "bath"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant",
+            "subtitle": "Sodium Palmitate",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale ",
+            "subtitle": "Glycerin",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Argile Blanche ",
+            "subtitle": "Kaolin",
+            "description": "Agent absorbant",
+            "icon_code": "white_circle"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Conditionnants ",
+            "subtitle": "Caesalpinia Spinosa Gum, Acacia Senegal Gum, Xanthan Gum",
+            "description": "Produit un film continu sur la peau",
+            "icon_code": "candy"
+        },
+        {
+            "banner_text":"",
+            "title": "Gélifiant Xanthan Gum",
+            "subtitle":"",
+            "description": "Donne la consistance d’un gel",
+            "icon_code": "blue_heart"
+        },
+        {
+            "banner_text":"",
+            "title": "Parfum ",
+            "subtitle": "Fragrance",
+            "description": "Parfum 100% naturel",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Humectant ",
+            "subtitle": "Saccharide Isomerate",
+            "description": "Maintient la teneur en eau",
+            "icon_code": "droplet"
+        },
+        {
+            "banner_text":"",
+            "title": "Régulateurs de pH ",
+            "subtitle": "Sodium Citrate, Citric Acid",
+            "description": "Un des principaux actifs du citron utilisé pour réguler le pH",
+            "icon_code": "lemon"
+        }
+    ]
+}

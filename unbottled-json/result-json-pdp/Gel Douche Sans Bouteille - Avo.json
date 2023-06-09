@@ -1,0 +1,74 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’Avoine",
+            "subtitle": "Avena Sativa (Oat) Kernel Oil",
+            "description": "Propriétés apaisantes et réparatrices",
+            "icon_code": "ear_of_rice"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’Amande Douce",
+            "subtitle": "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "yellow_heart"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Son d’Avoine",
+            "subtitle": "Triticum Vulgare (Wheat) Bran",
+            "description": "Propriétés exfoliantes",
+            "icon_code": "ear_of_rice"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum gourmand",
+            "subtitle": "Fragrance",
+            "description": "Parfum 100% naturel (sans huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Colza",
+            "subtitle": "Hydrogenated Vegetable Oil",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif Biodégradable",
+            "subtitle": "Sodium Cocoyl Isethionate",
+            "description": "Agent moussant d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant",
+            "subtitle": "Polyglyceryl-4 Laurate",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles (eau et huile)",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale",
+            "subtitle": "Glycerin",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif Biodégradable",
+            "subtitle": "Decyl Glucoside",
+            "description": "Agent moussant et lavant d'origine végétale",
+            "icon_code": "thought_balloon"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de Chélation",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "jigsaw"
+        }
+    ]
+}

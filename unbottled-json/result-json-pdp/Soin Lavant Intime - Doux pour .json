@@ -1,0 +1,95 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Lin",
+            "subtitle": "Linum Usitatissimum (Linseed) Seed Oil",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "ear_of_rice"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Extrait d’Aloe Vera",
+            "subtitle": "Aloe Barbadensis Leaf Extract",
+            "description": "Propriétés apaisantes",
+            "icon_code": "cucumber"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Beurre de Karité",
+            "subtitle": "Butyrospermum Parkii (Shea) Butter",
+            "description": "Propriétés nourrissantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Tournesol",
+            "subtitle": " Helianthus Annuus (Sunflower) Seed Oil",
+            "description": "Adoucit et assouplit la peau",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent Absorbant",
+            "subtitle":"",
+            "description": "Absorbe l’eau ou l’huile",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactifs Biodégradables",
+            "subtitle": "Sodium Cocoyl Isethionate & Sodium Cocoyl Apple Amino Acids",
+            "description": "Agents moussants et lavants d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Emollient",
+            "subtitle": "Palmitic Acid",
+            "description": "Adoucit et assouplit",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Nettoyants",
+            "subtitle": "Stearic Acid & Sodium Stearate",
+            "description": "Remplacent le savon",
+            "icon_code": "bathtub"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactifs Biodégradables",
+            "subtitle": "Disodium Lauryl Sulfosuccinate & Decyl Glucoside",
+            "description": "Agent moussant et lavant d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiants",
+            "subtitle": "Sodium Palmitate & Hexylene Glycol",
+            "description": "Favorisent la formation de mélanges entre des liquides non miscibles",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale",
+            "subtitle": "Glycerin",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Acides Lactique & Citriques    ",
+            "subtitle": " Lactic Acid & Citric Acid",
+            "description": "Régulateurs de pH",
+            "icon_code": "glass_of_milk"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de chélation",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "jigsaw"
+        }
+    ]
+}

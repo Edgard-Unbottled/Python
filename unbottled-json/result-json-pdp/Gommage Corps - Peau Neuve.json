@@ -1,0 +1,116 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Beurre de cacao ",
+            "subtitle": "Theobroma Cacao (Cocoa) Seed Butter",
+            "description": "Propriétés nourrissantes",
+            "icon_code": "chocolate_bar"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Miel Mel (Honey)",
+            "subtitle":"",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "honey_pot"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de noisette ",
+            "subtitle": "Corylus Avellana (Hazelnut) Seed Oil",
+            "description": "Propriétés équilibrantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Graines de noisette ",
+            "subtitle": "Corylus Avellana (Hazelnut) Seed Powder",
+            "description": "Propriétés exfoliantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Poudre d’amande ",
+            "subtitle": "Prunus Amygdalus Dulcis (Sweet Almond) Shell Powder",
+            "description": "Propriétés exfoliantes",
+            "icon_code": "peanuts"
+        },
+        {
+            "banner_text": "Pafum Naturel",
+            "title": "Parfum Fragrance",
+            "subtitle":"",
+            "description": "Parfum 100% naturel (avec huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Absorbants ",
+            "subtitle": "Maltodextrin, Alumine & Magnesium Oxide",
+            "description":"",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactifs Biodégradables ",
+            "subtitle": "Sodium Cocoyl Isethionate, Disodium Lauryl Sulfosuccinate, Decyl Glucoside",
+            "description":"",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Emollient",
+            "subtitle": "Palmitic Acid, Myristyl Lactate",
+            "description":"",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Agents Nettoyants ",
+            "subtitle": "Stearic Acid, Sodium Stearate",
+            "description":"",
+            "icon_code": "bath"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant ",
+            "subtitle": "Sodium Palmitate",
+            "description":"",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Gomme Tara ",
+            "subtitle": "Caesalpinia Spinosa Gum",
+            "description":"",
+            "icon_code": "muscle"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale Glycerin",
+            "subtitle":"",
+            "description":"",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Acide Citrique ",
+            "subtitle": "Citric Acid",
+            "description":"",
+            "icon_code": "lemon"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorants",
+            "subtitle": "CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides)",
+            "description":"",
+            "icon_code": "purple_heart"
+        },
+        {
+            "banner_text":"",
+            "title": "Huiles essentielles ",
+            "subtitle": "Linalool",
+            "description":"",
+            "icon_code": "leaves"
+        }
+    ]
+}

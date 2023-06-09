@@ -1,0 +1,60 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Extrait d’Aloe VeraAloe ",
+            "subtitle": "Barbadensis Leaf Extract",
+            "description": "Propriétés apaisantes",
+            "icon_code": "cucumber"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Beurre de Karité ",
+            "subtitle": "Butyrospermum Parkii (Shea) Butter",
+            "description": "Propriétés nourrissantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum",
+            "subtitle": "Fragrance",
+            "description": "Parfum 100% naturel (sans huiles essentielles",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale Glycerin",
+            "subtitle":"",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Colza & Tournesol ",
+            "subtitle": "Hydrogenated Vegetable Oil, Helianthus Annuus (Sunflower) Seed Oil",
+            "description": "Adoucit et assouplit la peau",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent filmogène ",
+            "subtitle": "Caesalpinia Spinosa Gum, Acacia Senegal Gum",
+            "description": "Produit un film sur la peau",
+            "icon_code": "candy"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant ",
+            "subtitle": "Polyglyceryl-4 Laurate, Hexylene Glycol",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles (eau et huile)",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de chélation ",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "jigsaw"
+        }
+    ]
+}

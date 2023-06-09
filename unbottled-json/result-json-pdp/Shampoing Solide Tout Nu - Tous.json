@@ -1,0 +1,102 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Brocoli",
+            "subtitle": "Brassica OleraceaItalica Seed Oil",
+            "description": "Propriété lissante  (substitut naturel aux silicones)",
+            "icon_code": "broccoli"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d'Argan Bio",
+            "subtitle": "Argania Spinosa Kernel Oil",
+            "description": "Propriété nourrissante",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Argile Verte",
+            "subtitle": "Montmorillonite",
+            "description": "Propriété équilibrante",
+            "icon_code": "green_heart"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum",
+            "subtitle": "Fragrance",
+            "description": "Parfum 100% naturel aux notes de romarin et menthe  (avec huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Colza",
+            "subtitle": "Hydrogenated Vegetable Oil",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif Biodégradable",
+            "subtitle": "Sodium Cocoyl Isethionate",
+            "description": "Agent lavant d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant",
+            "subtitle": "Polyglyceryl-4 Laurate",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent Naturel",
+            "subtitle": "Erythritol",
+            "description": "Humectant et hydratant",
+            "icon_code": "wind_blowing_face"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale",
+            "subtitle": "Glycerin",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif Biodégradable",
+            "subtitle": "Decyl Glucoside",
+            "description": "Agent moussant et lavant d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de Chélation",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "jigsaw"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorant ",
+            "subtitle": "Bleu Naturel  CI 77007 (Ultramarines)",
+            "description": "Donne la couleur bleue de notre shampoing",
+            "icon_code": "large_blue_diamond"
+        },
+        {
+            "banner_text":"",
+            "title": "Silice",
+            "subtitle": "Silica",
+            "description": "Agent absorbant naturellement présent dans l'argile",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Geraniol, Limonene & Linanool",
+            "subtitle": " Huiles Essentielles",
+            "description": "Agents parfumés naturels contenus dans les huiles essentielles",
+            "icon_code": "leaves"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Beurre de karité",
+            "subtitle": " Butyrospermum Parkii (Shea) Butter",
+            "description": "Propriétés nourrissantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Beurre de cacao",
+            "subtitle": "Theobroma Cacao (Cocoa) Seed Butter",
+            "description": "Propriétés réparatrices et protectrices",
+            "icon_code": "chocolate_bar"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’amande douce",
+            "subtitle": "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+            "description": "Propriétés adoucissantes et assouplissantes",
+            "icon_code": "green_heart"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’argan",
+            "subtitle": "Argania Spinosa Kernel Oil",
+            "description": "Propriétés nourrissantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’olive",
+            "subtitle":"",
+            "description": "Propriétés fortifiantes et protectrice",
+            "icon_code": "deciduous_tree"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de grains de tournesol",
+            "subtitle": "Helianthus Annuus (Sunflower) Seed Oil",
+            "description": "Propriétés adoucissantes et assouplissantes",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum",
+            "subtitle": "Fragrance",
+            "description": "Parfum 100% naturel - lait d’olivier (sans huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Emulsifiant",
+            "subtitle": "Arachidyl / Behenyl Alcohol",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles (eau et huile)",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Emulsifiant",
+            "subtitle": "Arachidyl / Behenyl Betainate Esylate",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles (eau et huile)",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Emollients",
+            "subtitle": "Arachidyl Alcohol et Behenyl Alcohol",
+            "description": "Adoucissent et assouplissent la fibre",
+            "icon_code": "icecream"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif naturel",
+            "subtitle": "Arachidyl Glucoside",
+            "description": "Contribue à la répartition uniforme du produit lors de son utilisation",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile estérifiée   ",
+            "subtitle": "Caprylic / Capric Glycerides",
+            "description": "Réduit ou inhibe l'odeur de base du produit",
+            "icon_code": "nose"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorant vert naturel",
+            "subtitle": "CI 75810",
+            "description": "Donne la couleur verte de notre après-shampoing",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Antioxydant",
+            "subtitle": "Tocopherol",
+            "description":"",
+            "icon_code": "muscle"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent parfumant naturel   ",
+            "subtitle": "Citronellol",
+            "description":"",
+            "icon_code": "lemon"
+        }
+    ]
+}

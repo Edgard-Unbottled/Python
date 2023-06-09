@@ -1,0 +1,123 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Esters d’huile d’olive",
+            "subtitle": "Olive Oil Decyl Esters",
+            "description": "Propriétés réparatrices et protectrices",
+            "icon_code": "high_brightness"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de grenade ",
+            "subtitle": "Punica Granatum Bark Extrac",
+            "description": "Propriétés réparatrices",
+            "icon_code": "apple"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de ricin ",
+            "subtitle": "Ricinus Communis (Castor) Seed",
+            "description": "Propriétés gainantes de la fibre",
+            "icon_code": "peanuts"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Gomme Tara ",
+            "subtitle": "Caesalpinia Spinosa",
+            "description": "Agent filmogène (protège la fibre)",
+            "icon_code": "blossom"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Argile bleue Kaolin",
+            "subtitle":"",
+            "description": "Apporte brillance et préserve la couleur",
+            "icon_code": "white_circle"
+        },
+        {
+            "banner_text": "100% naturel",
+            "title": "Parfum ",
+            "subtitle": "Fragrance",
+            "description": "Parfum grenade",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif Biodégradable ",
+            "subtitle": "Sodium Cocoyl Isethionate",
+            "description": "Agent moussant et lavant d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de colza ou tournesol ",
+            "subtitle": "Hydrogenated Vegetable Oil",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant",
+            "subtitle": "Polyglyceryl-4 Laurate",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles (eau et huile)",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale ",
+            "subtitle": "Glycerin",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Humectants ",
+            "subtitle": "Anhydroxylitol, Xylitol, Xylitylglucoside",
+            "description": "Retiennent l’eau et gainent la fibre",
+            "icon_code": "droplet"
+        },
+        {
+            "banner_text":"",
+            "title": "Sucre Glucose",
+            "subtitle":"",
+            "description": "Agent humectant (rétention d’eau)",
+            "icon_code": "candy"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de graines de tournesol ",
+            "subtitle": "Helianthus Annuus (Sunflower) Seed Oil",
+            "description": "Propriétés émollientes",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Phytosqualène 100% végétal ",
+            "subtitle": "Squalene",
+            "description": "Agent démêlant naturel",
+            "icon_code": "high_brightness"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de Chélation ",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "jigsaw "
+        },
+        {
+            "banner_text":"",
+            "title": "Silice ",
+            "subtitle": "Silica",
+            "description": "Agent absorbant naturel",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorants naturels ",
+            "subtitle": "CI 77007 (Ultramarines)",
+            "description": "Autorisés en cosmétique bio",
+            "icon_code": "blue_heart"
+        }
+    ]
+}

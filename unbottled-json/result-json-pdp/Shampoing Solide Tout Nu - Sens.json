@@ -1,0 +1,109 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’Amande Douce",
+            "subtitle": "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+            "description": "Propriétés adoucissantes et fortifiantes",
+            "icon_code": "green_heart"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Aloe Vera Aloe ",
+            "subtitle": "Barbadensis Leaf Extract",
+            "description": "Propriétés apaisantes",
+            "icon_code": "cucumber"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Cameline ",
+            "subtitle": "Camelina Sativa Seed Oil",
+            "description": "Propriétés réparatrices",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text": "100% naturel",
+            "title": "Parfum ",
+            "subtitle": "Fragrance",
+            "description": "Parfum menthe & santal",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Tensioactif Biodégradable ",
+            "subtitle": "Sodium Cocoyl Isethionate",
+            "description": "Agent moussant et lavant d’origine végétale",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de colza ou tournesol ",
+            "subtitle": "Hydrogenated Vegetable Oil",
+            "description": "Propriétés adoucissantes",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Amidon de maïs ",
+            "subtitle": "Zea Mays (Corn) Starch",
+            "description": "Agent absorbant",
+            "icon_code": "corn"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiant",
+            "subtitle": "Polyglyceryl-4 Laurate",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles (eau et huile)",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycérine Végétale ",
+            "subtitle": "Glycerin",
+            "description": "Agent émollient et hydratant naturel",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Émollient ",
+            "subtitle": "Myristyl Lactat",
+            "description": "Propriétés adoucissantes & assouplissantes",
+            "icon_code": "glass_of_milk"
+        },
+        {
+            "banner_text":"",
+            "title": "Humectants ",
+            "subtitle": "Anhydroxylitol, Xylitol, Xylitylglucoside",
+            "description": "Retiennent l’eau et gainent la fibre",
+            "icon_code": "droplet"
+        },
+        {
+            "banner_text":"",
+            "title": "Sucre Glucose",
+            "subtitle":"",
+            "description": "Agent humectant (rétention d’eau)",
+            "icon_code": "candy"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de graines de tournesol ",
+            "subtitle": "Helianthus Annuus (Sunflower) Seed Oil",
+            "description": "Propriétés émollientes",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de Chélation ",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "jigsaw"
+        },
+        {
+            "banner_text":"",
+            "title": "Huiles essentielles ",
+            "subtitle": "Linalool",
+            "description": "Agents parfumés naturels",
+            "icon_code": "leaves"
+        }
+    ]
+}

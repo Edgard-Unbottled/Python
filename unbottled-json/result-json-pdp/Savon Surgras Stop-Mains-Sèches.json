@@ -1,0 +1,88 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Cameline",
+            "subtitle": " Camelina Sativa Seed Oil",
+            "description": "Propriétés réparatrices",
+            "icon_code": "lemon"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum",
+            "subtitle": "Fragrance",
+            "description": "Parfum 100% naturel aux notes de bergamote et romarin  (avec huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Tournesol Saponifiée",
+            "subtitle": "Sodium Sunflowerseedate",
+            "description": "Agent nettoyant",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Coco Saponifée",
+            "subtitle": " Sodium Cocoate",
+            "description": "Agent nettoyant",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycerine Végétale",
+            "subtitle": "Glycerin",
+            "description": "Agent hydratant et émolient naturel",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Argile Verte",
+            "subtitle": "Montmorillonite",
+            "description": "Propriétés équilibrantes",
+            "icon_code": "wind_blowing_face"
+        },
+        {
+            "banner_text":"",
+            "title": "Acide Citrique",
+            "subtitle": "Citric Acid",
+            "description": "Propriétés équilibrantes du pH",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Sel",
+            "subtitle": "Sodium Chloride",
+            "description": "Contrôle de la viscosité",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Soude",
+            "subtitle": "Sodium Hydroxide",
+            "description": "Permet la saponification",
+            "icon_code": "jigsaw"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de Chélation",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "large_blue_diamond"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorant Naturel",
+            "subtitle": "CI 77492 (Iron Oxides)",
+            "description": "Colorant naturel autorisé en cosmétique bio",
+            "icon_code": "large_blue_diamond"
+        },
+        {
+            "banner_text":"",
+            "title": "Geraniol, Limonene & Linanool   ",
+            "subtitle": "Huiles Essentielles",
+            "description": "Agents parfumés naturels contenus dans les huiles essentielles",
+            "icon_code": "leaves"
+        }
+    ]
+}

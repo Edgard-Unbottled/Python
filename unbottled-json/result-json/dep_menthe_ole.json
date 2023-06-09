@@ -1,0 +1,84 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Magnésium",
+            "subtitle": "Magnesium Hydroxide, Magnesium Carbonate Hydroxide",
+            "description": "Régule le pH",
+            "icon_code": "diamond_shape_with_a_dot_inside"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Zinc",
+            "subtitle": "Zinc Ricinoleate",
+            "description": "Absorbeur d'odeur ",
+            "icon_code": "white_heart"
+        },
+        {
+            "title": "Huile de tournesol",
+            "subtitle": "Helianthus Annuus Sunflower Seed Oil",
+            "description": "Adoucit la peau",
+            "icon_code": "sunflower"
+        },
+        {
+            "title": "Agent émollient",
+            "subtitle": "Coco-Caprylate/Caprate",
+            "description": "Assouplit la peau ",
+            "icon_code": "coconut"
+        },
+        {
+            "title": "Émulsifiant",
+            "subtitle": "Stearyl Alcohol",
+            "description": "Favorise la formation de mélanges entre des liquides non miscibles eau et huile",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "title": "Cire de tournesol",
+            "subtitle": "Helianthus Annuus Sunflower Seed Wax",
+            "description": "Assouplit la peau ",
+            "icon_code": "sunflower"
+        },
+        {
+            "title": "Agent absorbant",
+            "subtitle": "Microcrystalline Cellulose",
+            "description": "Maintient la peau sèche",
+            "icon_code": "dash"
+        },
+        {
+            "title": "Antibactérien",
+            "subtitle": "Triethyl Citrate",
+            "description": "Lutte contre les bactéries",
+            "icon_code": "woman-gesturing-no"
+        },
+        {
+            "title": "Parfum",
+            "subtitle": "Fragrance",
+            "description": "Parfum menthe 100% naturel avec huiles essentielles",
+            "icon_code": "sparkles"
+        },
+        {
+            "title": "Huile de cameline",
+            "subtitle": "Camelina Sativa Seed Oil",
+            "description": "Huile végétale protectrice",
+            "icon_code": "yellow_heart"
+        },
+        {
+            "title": "Actif déodorant",
+            "subtitle": "Xylityl Sesquicaprylate",
+            "description": "Réduit les odeurs",
+            "icon_code": "woman-gesturing-no"
+        },
+        {
+            "title": "Humectant",
+            "subtitle": "Anhydroxylitol",
+            "description": "Retient l’eau ",
+            "icon_code": "droplet "
+        },
+        {
+            "title": "Vitamine E",
+            "subtitle": "Tocopherol",
+            "description": "Antioxydant ",
+            "icon_code": "sunny"
+        }
+    ]
+}

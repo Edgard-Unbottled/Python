@@ -1,0 +1,102 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Beurre de Karité",
+            "subtitle": " Butyrospermum Parkii (Shea) Butter",
+            "description": "Propriétés nourrissantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Pépins de framboise",
+            "subtitle": "Rubus Idaeus (Raspberry) Seed",
+            "description": "Exfoliants",
+            "icon_code": "strawberry"
+        },
+        {
+            "banner_text": "Parfum Naturel",
+            "title": "Parfum",
+            "subtitle": "Fragrance",
+            "description": "Parfum 100% naturel aux notes de framboise & fève tonka (avec huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Tournesol Saponifiée",
+            "subtitle": "Sodium Sunflowerseedate",
+            "description": "Agent nettoyant",
+            "icon_code": "sunflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de Coco Saponifée",
+            "subtitle": "Sodium Cocoate",
+            "description": "Agent nettoyant",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Argile Blanche",
+            "subtitle": "Kaolin",
+            "description": "Propriétés équilibrantes",
+            "icon_code": "white_circle"
+        },
+        {
+            "banner_text":"",
+            "title": "Glycerine Végétale",
+            "subtitle": "Glycerin",
+            "description": "Agent hydratant et émolient naturel",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Acide Citrique",
+            "subtitle": "Citric Acid",
+            "description": "Propriétés équilibrantes du pH",
+            "icon_code": "herb"
+        },
+        {
+            "banner_text":"",
+            "title": "Sel",
+            "subtitle": "Sodium Chloride",
+            "description": "Contrôle de la viscosité",
+            "icon_code": "dash"
+        },
+        {
+            "banner_text":"",
+            "title": "Soude",
+            "subtitle": "Sodium Hydroxide",
+            "description": "Permet la saponification",
+            "icon_code": "jigsaw"
+        },
+        {
+            "banner_text":"",
+            "title": "Agent de Chélation",
+            "subtitle": "Tetrasodium Glutamate Diacetate",
+            "description": "Stabilisant biodégradable",
+            "icon_code": "large_blue_diamond"
+        },
+        {
+            "banner_text":"",
+            "title": "Colorant Naturel ",
+            "subtitle": " CI 77007 (Ultramarines), CI 77491 (Iron Oxides), CI 77499 (Iron Oxides)",
+            "description": "Colorant naturel autorisé en cosmétique bio",
+            "icon_code": "jigsaw"
+        },
+        {
+            "banner_text":"",
+            "title": "Silice",
+            "subtitle": "Silica",
+            "description": "Agent absorbant naturel",
+            "icon_code": "eight_spoked_asterisk"
+        },
+        {
+            "banner_text":"",
+            "title": "Huiles Essentielles",
+            "subtitle": " Eugenol",
+            "description": "Agents parfumés naturels contenus dans les huiles essentielles",
+            "icon_code": "leaves"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "ingredients": [
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile d’Amande Douce",
+            "subtitle": "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+            "description": "Propriétés adoucissantes et apaisantes",
+            "icon_code": "green_heart"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Jojoba",
+            "subtitle": "Simmondsia Chinensis (Jojoba) Seed Oil",
+            "description": "Propriétés équilibrantes et sébo-régulatrices",
+            "icon_code": "amphora"
+        },
+        {
+            "banner_text": "Super Ingrédient",
+            "title": "Huile de Rose",
+            "subtitle": "Rosa Damascena Flower Extract",
+            "description": "Propriétés régénérantes et réparatrices",
+            "icon_code": "rose"
+        },
+        {
+            "banner_text":"",
+            "title": "Émollient",
+            "subtitle": "Cetearyl Alcohol / Arachidyl Alcohol",
+            "description": "Adoucit et protège la peau sans effet gras",
+            "icon_code": "icecream"
+        },
+        {
+            "banner_text":"",
+            "title": "Extrait canne à sucre",
+            "subtitle": "Beta Vulgaris (Beet) Root Extract",
+            "description": "Maintient la peau en bon état",
+            "icon_code": "candy"
+        },
+        {
+            "banner_text":"",
+            "title": "Beurre de cacao",
+            "subtitle": "Theobroma Cacao (Cocoa) Seed Butter",
+            "description": "Propriétés réparatrices et protectrices",
+            "icon_code": "chocolate_bar"
+        },
+        {
+            "banner_text":"",
+            "title": "Émulsifiants",
+            "subtitle": "Behenyl Alcohol / Arachidyl Glucoside",
+            "description": "Favorisent la formation de mélanges entre liquides non miscibles (eau et huile)",
+            "icon_code": "sweat_drops"
+        },
+        {
+            "banner_text":"",
+            "title": "Beurre de karité",
+            "subtitle": "Butyrospermum Parkii (Shea) Butter",
+            "description": "Propriétés nourrissantes",
+            "icon_code": "chestnut"
+        },
+        {
+            "banner_text":"",
+            "title": "Parfum naturel",
+            "subtitle": "Fragrance",
+            "description": "100% naturel (sans huiles essentielles)",
+            "icon_code": "sparkles"
+        },
+        {
+            "banner_text":"",
+            "title": "Huile de tournesol",
+            "subtitle": "Helianthus Annuus (Sunflower) Seed Oil",
+            "description": "Propriétés adoucissantes et assouplissantes",
+            "icon_code": "funflower"
+        },
+        {
+            "banner_text":"",
+            "title": "Antioxydant ",
+            "subtitle": "Tocopherol",
+            "description": "Propriétés antioxydantes",
+            "icon_code": "muscle"
+        }
+    ]
+}
