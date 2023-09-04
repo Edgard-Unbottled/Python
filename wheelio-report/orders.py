@@ -75,5 +75,5 @@ aggregated_data = process_data(emails, indexed_orders)
 # Écrire les données agrégées dans le fichier final
 print("Écriture des données agrégées dans wheelio_orders_agregated.csv...")
 write_processed_data_to_csv(aggregated_data, 'wheelio_orders_agregated.csv')
-print("Terminé!")
+print("Terminé! Test")
 
