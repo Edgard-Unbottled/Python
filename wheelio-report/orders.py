@@ -21,17 +21,28 @@ def load_orders_from_csv(filename):
         return orders
 
 
-def process_data(emails, orders):
+def index_orders_by_email(orders):
+    indexed_orders = {}
+    for order in orders:
+        order_id, order_email, total_price = order
+        if order_email not in indexed_orders:
+            indexed_orders[order_email] = []
+        indexed_orders[order_email].append((order_id, total_price))
+    return indexed_orders
+
+def process_data(emails, indexed_orders):
     data = {}
-    for email in tqdm(emails, desc="Traitement des emails"):
-        for order in orders:
-            order_id, order_email, total_price = order
-            if email == order_email:
+    emails_set = set(emails)  # Convertir la liste d'emails en ensemble pour une recherche rapide
+    for email in tqdm(emails_set, desc="Traitement des emails"):
+        if email in indexed_orders:  # Vérifiez si l'email a des commandes associées
+            for order in indexed_orders[email]:
+                order_id, total_price = order
+                total_price_value = float(total_price)
                 if email in data:
-                    data[email]['total'] += float(total_price)
+                    data[email]['total'] += total_price_value
                     data[email]['count'] += 1
                 else:
-                    data[email] = {'total': float(total_price), 'count': 1}
+                    data[email] = {'total': total_price_value, 'count': 1}
     return data
 
 def write_processed_data_to_csv(data, filename):
@@ -54,8 +65,12 @@ print("Chargement des commandes depuis all_orders.csv...")
 orders = load_orders_from_csv('C:\\Users\\EdgardTroadec\\Documents\\python-data\\wheelio-report\\all_orders.csv')
 print(f"{len(orders)} commandes chargées.")
 
+# Indexer les commandes par email
+print("Indexation des commandes par email...")
+indexed_orders = index_orders_by_email(orders)
+
 # Traiter et agréger les données
-aggregated_data = process_data(emails, orders)
+aggregated_data = process_data(emails, indexed_orders)
 
 # Écrire les données agrégées dans le fichier final
 print("Écriture des données agrégées dans wheelio_orders_agregated.csv...")
