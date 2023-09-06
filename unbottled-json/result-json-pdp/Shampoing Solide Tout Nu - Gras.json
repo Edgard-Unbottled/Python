@@ -16,10 +16,10 @@
         },
         {
             "banner_text": "Super Ingrédient",
-            "title": "Huile Essentielle d’Arbre à Thé",
-            "subtitle": "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
-            "description": "Propriétés assainissantes et anti-pelliculaires",
-            "icon_code": "tea"
+            "title": "Zinc",
+            "subtitle": "Zinc PCA",
+            "description": "Propriétés sébo-régulatrices",
+            "icon_code": "white_circle"
         },
         {
             "banner_text": "Super Ingrédient",
@@ -32,75 +32,75 @@
             "banner_text": "Parfum Naturel",
             "title": "Parfum",
             "subtitle": "Fragrance",
-            "description": "Parfum 100% naturel aux notes de sauge & eucalyptus  (avec huiles essentielles)",
+            "description": "Parfum 100% naturel aux notes de sauge <br>& eucalyptus (avec huiles essentielles)",
             "icon_code": "sparkles"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Huile de Colza & Tournesol",
             "subtitle": "Hydrogenated Vegetable Oil",
             "description": "Propriétés adoucissantes",
             "icon_code": "sunflower"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Tensioactif Biodégradable",
             "subtitle": "Sodium Cocoyl Isethionate",
             "description": "Agent lavant d’origine végétale",
             "icon_code": "dash"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Émulsifiant",
             "subtitle": "Polyglyceryl-4 Laurate",
             "description": "Favorise la formation de mélanges entre des liquides non miscibles",
             "icon_code": "sweat_drops"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Glycérine Végétale",
             "subtitle": "Glycerin",
             "description": "Agent émollient et hydratant naturel",
             "icon_code": "herb"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Humectants",
             "subtitle": "Anhydroxylitol, Xylitol & Xylitylglucoside",
             "description": "Retiennent l’eau et gainent la fibre",
             "icon_code": "droplet"
         },
         {
-            "banner_text":"",
-            "title": "Sucre Glucose",
-            "subtitle":"",
+            "banner_text": "",
+            "title": "Sucre",
+            "subtitle": "Glucose",
             "description": "Agent humectant (retention d’eau)",
             "icon_code": "candy"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Agent de Chélation  ",
             "subtitle": "Tetrasodium Glutamate Diacetate",
             "description": "Stabilisant biodégradable",
             "icon_code": "jigsaw"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Colorants Naturels",
             "subtitle": "CI 77007 (Ultramarines) & CI 77492 (Iron Oxides)",
             "description": "Autorisés en cosmétique bio",
             "icon_code": "green_heart"
         },
         {
-            "banner_text":"",
+            "banner_text": "",
             "title": "Silice",
-            "subtitle": " Silica",
+            "subtitle": "Silica",
             "description": "Agent absorbant naturellement présent dans l'argile",
             "icon_code": "eight_spoked_asterisk"
         },
         {
-            "banner_text":"",
-            "title": "Limonene & Linanool   ",
+            "banner_text": "",
+            "title": "Limonene & Linanool",
             "subtitle": "Huiles Essentielles",
             "description": "Agents parfumés naturels contenus dans les huiles essentielles",
             "icon_code": "leaves"
